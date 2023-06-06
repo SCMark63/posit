@@ -3,11 +3,11 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: blue;
 }
 
 h1 {
-    color:blue;
+    color:black;
 }
 
 p,
@@ -18,5 +18,4 @@ li {
 
 a {
     text-decoration: none;
-    border: 10px dotted rebeccapurple;
 }
