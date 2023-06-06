@@ -13,7 +13,7 @@ h1 {
 p,
 li {
     font-size: 18px;
-    border: 10px dotted rebeccapurple
+    border: 10px solid rebeccapurple
 }
 
 a {
