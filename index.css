@@ -1,0 +1,22 @@
+* {
+    font-family: Helvetica, Courier, sans-serif;
+}
+
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color:blue;
+}
+
+p,
+li {
+    font-size: 18px;
+    border: 10px dotted rebeccapurple
+}
+
+a {
+    text-decoration: none;
+    border: 10px dotted rebeccapurple;
+}
