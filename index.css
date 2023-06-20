@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: blue;
+    background-color: turquoise;
     
 }
 
@@ -19,3 +19,7 @@ li {
 a {
     text-decoration: none;
 }
+
+title {
+    font-size: 30px;
+    font-weight: 800;
