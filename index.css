@@ -22,8 +22,8 @@ body {
     
 }
 
-h1 {
-    font-style: italic bold;
+.h1 {
+    font-style: bold;
     color: white;
     font-size: 25px;
     width: 28px;
