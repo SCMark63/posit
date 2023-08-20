@@ -38,9 +38,11 @@ h2 {
     
 
 p {
-    font-size: 20px;
+    font-size: 26px;
     text-align: center;
     width: 100%;
+    background-color: blue;
+    color: white;
 }
 
 a {
