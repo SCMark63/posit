@@ -21,17 +21,17 @@ title {
 body {
     background-color: aqua;
     margin: auto;
-    border: 4px solid yellow;
+    border: 5px solid gold;
     width: 100%;
     }
 
 span {
     font-weight: 600;
-    color: purple;
+    color: white;
     text-decoration: underline; 
 }
 
-.story {
+story {
     background-color: blue;
     color: white;
 
