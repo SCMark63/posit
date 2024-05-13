@@ -31,9 +31,11 @@ span {
     text-decoration: underline; 
 }
 
-story {
+.story {
     background-color: blue;
     color: white;
+    border: 4px dashed red;
+    border-radius: 10px;
 
 h1 {
     
