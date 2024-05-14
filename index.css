@@ -27,9 +27,17 @@ body {
 
 span {
     font-weight: 600;
-    color: white;
+    background-color: salmon; 
+    color: silver;
     text-decoration: underline; 
     font-size: 30px;
+}
+
+.docu {
+    background-color: green;
+    color: black;
+    font-style: italic;
+    border: 3px solid black;
 }
 
 .story {
@@ -39,23 +47,17 @@ span {
     border: 4px dashed red;
     border-radius: 10px;
     text-align: center;
+    margin: 10 auto;
 
 h1 {
     
     color: blue;
-    text-decoration: underline;
+    
 }
 
 h2 {
-    font-style: italic;;
-    color: green;    
-}
-
-.docu {
-    background-color: green;
-    color: black;
     font-style: italic;
-    border: 2px solid black;
+    color: green;    
 }
 
 .update {
