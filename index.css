@@ -33,14 +33,14 @@ span {
     font-size: 30px;
 }
 
-.docu {
+.fantasy {
     background-color: green;
     color: black;
     font-style: italic;
     border: 3px solid black;
 }
 
-.story {
+/* .story {
     background-color: orange;
     width: 90%;
     color: black;
@@ -48,7 +48,7 @@ span {
     border-radius: 10px;
     text-align: center;
     margin: 10 auto;
-
+*/
 h1 {
     
     color: blue;
