@@ -76,3 +76,12 @@ p {
     width: 90%;
 }
 
+#date {
+    font-size: 36px;
+    font-family: Marcellus;
+    font-weight: 500;
+    width: 100%;
+    background-color: #d50000;
+    color: #c6ff00;
+}
+
