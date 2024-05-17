@@ -37,9 +37,10 @@ span {
 }
 
 .fantasy {
-    background-color: green;
-    color: black;
+    background-color: #1b5e20;
+    color: white;
     font-style: italic;
+    font-family: Merriweather; 
     border: 3px solid black;
 }
 
