@@ -18,6 +18,12 @@ title {
     padding: 3px;
     text-align: center;
 }
+
+a {
+    color: red;
+    background-color: black;
+}
+
 body {
     background-color: ;
     margin: auto;
