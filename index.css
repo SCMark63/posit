@@ -43,8 +43,8 @@ span {
 }
 
 .fantasy {
-    background-color: green;
-    color: white;
+    background-color: yellow;
+    color: green;
     font-style: italic;
     font-family: Merriweather; 
     border: 3px solid black;
@@ -71,7 +71,7 @@ h2 {
 }
 
 .update {
-    background-color: gold;
+    background-color: aqua;
     color: black;
     font-style: italic;
     border: 6px groove #263238;
