@@ -32,7 +32,7 @@ body {
     text-align: justify;
     }
 
-span {
+.span {
     font-weight: 600;
     background-color: yellow; 
     color: black;
@@ -42,11 +42,22 @@ span {
     border-radius: 5px;
 }
 
+.shell {
+    text-align: center;
+    font: Courier;
+    font:-style: italic;
+}
+
+.hell {
+    text-align: justify;
+    font: Helvetica;
+}
+
 .fantasy {
     background-color: yellow;
     color: green;
     font-style: italic;
-    font-family: Merriweather; 
+    font-family: Marcellus; 
     border: 3px solid black;
 }
 
