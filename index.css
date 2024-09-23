@@ -55,9 +55,8 @@ body {
 
 .fantasy {
     background-color: yellow;
-    color: green;
-    font-style: italic;
-    font-family: Marcellus; 
+    color: blue;
+    font:  Luminari;
     border: 3px solid black;
 }
 
