@@ -1,5 +1,5 @@
 * {
-    font-family: Helvetica, Courier, cursive, fantasy, sans;
+    font-family: Helvetica, Courier, comic sans, cursive, serif;
     
 }
 
@@ -20,12 +20,12 @@ title {
 }
 
 a {
-    color: red;
-    background-color: black;
+    color: black;
+    background-color: salmon;
 }
 
 body {
-    background-color: ;
+    background-color: gray;
     margin: auto;
     border: 5px solid gold;
     width: 100%;
