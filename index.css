@@ -1,5 +1,5 @@
 * {
-    font-family: Helvetica, Courier, comic sans, cursive, serif;
+    font-family: Helvetica, Courier;
     
 }
 
@@ -22,10 +22,13 @@ title {
 a {
     color: black;
     background-color: salmon;
+    font-size: 40px;
+    font-weight: 550;
+
 }
 
 body {
-    background-color: gray;
+    background-color: orange;
     margin: auto;
     border: 5px solid gold;
     width: 100%;
@@ -34,7 +37,7 @@ body {
 
 .span {
     font-weight: 600;
-    background-color: yellow; 
+    background-color: pink; 
     color: black;
     text-decoration: underline; 
     font-size: 40px;
@@ -44,7 +47,8 @@ body {
 
 .story  {
     text-align: center;
-    font: Optima;
+    font: Tangerine, cursive;
+    font-weight: 400;
     background-color: green ;
     color: white;
     border: 10px solid black;
@@ -65,7 +69,7 @@ body {
     background-color: purple;
     color: white;
     font-weight: 600; 
-    font:  Apple Chancery;
+    font:  Sofia;
     border: 3px solid black;
 }
 
