@@ -1,5 +1,5 @@
 * {
-    font-family: Helvetica, Courier, sans-serif;
+    font-family: Helvetica, Courier, cursive, fantasy, sans;
     
 }
 
@@ -62,8 +62,9 @@ body {
 }
 
 .fantasy {
-    background-color: yellow;
-    color: blue;
+    background-color: purple;
+    color: black;
+    font-weight: 600; 
     font:  Apple Chancery;
     border: 3px solid black;
 }
