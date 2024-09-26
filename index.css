@@ -28,11 +28,12 @@ a {
 }
 
 body {
-    background-color: orange;
+    background-color: fuchsia;
     margin: auto;
-    border: 5px solid gold;
+    border: 15px solid silver;
     width: 100%;
     text-align: justify;
+    color: blue;
     }
 
 .span {
@@ -52,6 +53,8 @@ body {
     background-color: green ;
     color: white;
     border: 10px solid black;
+    font-style: italic; 
+
 }
 
 .shell {
@@ -92,7 +95,7 @@ h1 {
 
 h2 {
     font-style: italic;
-    color: black;    
+    color: white;    
 }
 
 .update {
