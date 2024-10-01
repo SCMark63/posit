@@ -28,12 +28,12 @@ a {
 }
 
 body {
-    background-color: fuchsia;
+    background-color: salmon;
     margin: auto;
     border: 15px solid silver;
     width: 100%;
     text-align: justify;
-    color: blue;
+    color: black;
     }
 
 .span {
@@ -48,7 +48,7 @@ body {
 
 .story  {
     text-align: center;
-    font: Tangerine;
+    font: 'Times New Roman';
     font-weight: 400;
     background-color: green ;
     color: white;
@@ -102,7 +102,7 @@ h2 {
     background-color: aqua;
     color: black;
     font-style: italic;
-    font: gothic;
+    font: Courier;
     font-weight: 600;
     border: 6px groove #263238;
 }
