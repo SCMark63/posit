@@ -28,21 +28,22 @@ a {
 }
 
 body {
-    background-color: salmon;
+    font: Sofia;
+    background-color: aqua;
     margin: auto;
     border: 15px solid silver;
     width: 100%;
-    text-align: justify;
+    text-align: center;
     color: black;
     }
 
 .span {
     font-weight: 600;
-    background-color: aqua; 
+    background-color: blue; 
     color: black;
      
     font-size: 40px;
-    border: 5px solid blue;
+    border: 5px solid black;
     border-radius: 5px;
 }
 
