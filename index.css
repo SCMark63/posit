@@ -1,5 +1,5 @@
  {
-    font-family: Helvetica, Courier, Sofia, Tangerine,  serif;
+    font-family: Helvetica, Courier, Sofia, Tangerine,  sans-serif;
 } 
 
 head {
@@ -52,7 +52,7 @@ body {
     font-weight: 400;
     background-color: green ;
     color: white;
-    border: 10px solid red;
+    border: 10px dashed red;
     font-style: italic; 
 
 }
@@ -119,7 +119,7 @@ h3 {
 }
 p {
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     width: 90%;
 }
 
@@ -136,4 +136,5 @@ p {
     background-color: teal;
     color: black;
 }
+
 
