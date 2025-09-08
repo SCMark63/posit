@@ -52,7 +52,7 @@ body {
     font-weight: 400;
     background-color: green ;
     color: white;
-    border: 10px dashed red;
+    border: 10px dashed black;
     font-style: italic; 
 
 }
@@ -137,6 +137,7 @@ p {
     background-color: teal;
     color: black;
 }
+
 
 
 
