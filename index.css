@@ -71,11 +71,11 @@ body {
 .fantasy {
     background-color: purple;
     color: white;
-    font-weight: 600; 
-    font:  Sofia;
-    font-style: italic;
+    font-weight: 900; 
+    font:  Courier;
+    font-style: underline;
 
-    border: 3px solid black;
+    border: 6px solid black;
 }
 
 /* .story {
@@ -137,6 +137,7 @@ p {
     background-color: teal;
     color: black;
 }
+
 
 
 
