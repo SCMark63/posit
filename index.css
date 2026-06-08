@@ -16,6 +16,8 @@ title {
     font-style: bold;
     padding: 3px;
     text-align: center;
+    background-color: yellow;
+    color: blue;
 }
 
 a {
