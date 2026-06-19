@@ -98,7 +98,8 @@ h1 {
 h2 {
     font-style: italic;
     color: black;
-    background-color: slate;
+    background-color: teal;
+    border: 15px solid green;
 }
 
 h3 {
