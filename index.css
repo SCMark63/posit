@@ -30,8 +30,8 @@ a {
 
 body {
     font: Courier;
-    background-color: aqua;
-    margin: auto;
+/*    background-color: aqua;
+    margin: auto;    */
     border: 15px solid silver;
     width: 100%;
     text-align: center;
@@ -44,7 +44,7 @@ body {
     color: white;
      
     font-size: 40px;
-    border: 5px solid black;
+    border: 5px solid orange;
     border-radius: 5px;
 }
 
@@ -52,7 +52,7 @@ body {
     text-align: center;
     font: Gothic;
     font-weight: 400;
-    background-color: bronze;
+    background-color: coral;
     color: black;
     border: 10px dashed black;
     font-style: italic; 
