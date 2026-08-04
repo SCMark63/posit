@@ -32,6 +32,7 @@ body {
     font: Courier;
 /*    background-color: aqua;
     margin: auto;    */
+    background-color: aqua;
     border: 15px solid silver;
     width: 100%;
     text-align: center;
@@ -52,9 +53,9 @@ body {
     text-align: center;
     font: Gothic;
     font-weight: 400;
-    background-color: coral;
+    background-color: yellow;
     color: black;
-    border: 10px dashed black;
+    border: 15px solid black;
     font-style: italic; 
 
 }
